@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# newsapi
-
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -17,4 +12,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # flutter-news-api-application
->>>>>>> 321d6314d2c03cf5f60b7ce0a4aa8d0c93ae3aba
+
+This is a basic flutter news api application where news is dynamically rendered using API from https://newsdata.io/.
+Get your API Key by logging in to the application and paste it in the api key section in the url provided.
+URL used by me : "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey= (//insert your API Key)"
